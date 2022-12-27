@@ -8,3 +8,17 @@
 Button.-primary {
   font-size: 18;
 }
+.mgh {
+  color: coral;
+  font-size: 1rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: left;
+  margin: 22px;
+}
+.df {
+  background-color: chocolate;
+  color: burlywood;
+  border: transparent;
+  height: 130px;
+}
